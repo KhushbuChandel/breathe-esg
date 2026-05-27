@@ -1,4 +1,4 @@
-import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend } from 'recharts';
+import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 
 const SCOPE_COLORS  = { SCOPE_1: '#fc8181', SCOPE_2: '#f6e05e', SCOPE_3: '#63b3ed' };
 const STATUS_COLORS = { PENDING: '#f6ad55', FLAGGED: '#fc8181', APPROVED: '#68d391', LOCKED: '#63b3ed' };
