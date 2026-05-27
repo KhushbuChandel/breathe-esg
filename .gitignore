@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+breathe_backend/breathe_backend/.env
+
+node_modules/
+build/
+dist/
+
+media/
+
+db.sqlite3
+
+.env

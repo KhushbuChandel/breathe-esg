@@ -1,0 +1,7 @@
+trip_id,traveler_name,traveler_email,department,trip_purpose,segment_type,origin,destination,travel_date,return_date,cabin_class,distance_km,hotel_name,hotel_city,nights,ground_type,vendor,amount,currency
+TRP-001,Ankit Verma,ankit@corp.com,Sales,Client Meeting,FLIGHT,BOM,DEL,2024-01-10,2024-01-12,ECONOMY,,,,,,18500.00,INR
+TRP-001,Ankit Verma,ankit@corp.com,Sales,Client Meeting,HOTEL,,,,2024-01-10,,,,The Leela Delhi,Delhi,2,,22000.00,INR
+TRP-002,Priya Sharma,priya@corp.com,Engineering,Conference,FLIGHT,DEL,LHR,2024-01-20,2024-01-25,BUSINESS,,,,,,185000.00,INR
+TRP-002,Priya Sharma,priya@corp.com,Engineering,Conference,FLIGHT,LHR,DEL,2024-01-25,,BUSINESS,,,,,,185000.00,INR
+TRP-003,Rahul Singh,rahul@corp.com,Operations,Site Visit,GROUND,,,2024-02-05,,,,,,,,TAXI,1200.00,INR
+TRP-004,Meera Patel,meera@corp.com,Finance,Audit,FLIGHT,BOM,BLR,2024-02-15,,ECONOMY,,,,,,6500.00,INR

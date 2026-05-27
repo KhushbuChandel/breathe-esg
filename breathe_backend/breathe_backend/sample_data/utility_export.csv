@@ -1,0 +1,6 @@
+meter_id,account_number,facility_name,billing_period_start,billing_period_end,consumption_kwh,demand_kw,tariff_code,rate_per_unit,total_amount,currency,utility_provider,state
+MTR-001,ACC-2024-001,Head Office Mumbai,2024-01-01,2024-01-31,45230.500,120.5,HT-I,8.50,384459.25,INR,MSEDCL,Maharashtra
+MTR-002,ACC-2024-002,Factory Pune,2024-01-01,2024-01-31,128450.000,380.0,HT-II,7.80,1001910.00,INR,MSEDCL,Maharashtra
+MTR-001,ACC-2024-001,Head Office Mumbai,2024-02-01,2024-02-29,41820.000,115.0,HT-I,8.50,355470.00,INR,MSEDCL,Maharashtra
+MTR-003,ACC-2024-003,Warehouse Delhi,2024-01-01,2024-01-31,22100.000,65.0,LT-II,6.50,143650.00,INR,BSES,Delhi
+MTR-002,ACC-2024-002,Factory Pune,2024-02-01,2024-02-29,134200.000,390.0,HT-II,7.80,1046760.00,INR,MSEDCL,Maharashtra
