@@ -19,8 +19,10 @@ class UploadView(APIView):
     def post(self, request):
 
         file = request.FILES.get('file')
-        source_type = request.data.get('source_type')
+        source_type = request.data.get('source_type', '').strip().upper()
         tenant_id = request.data.get('tenant_id', 1)
+        print(f"DEBUG: source_type received = '{source_type}'")  # add this line
+
 
         if not file or not source_type:
             return Response(
